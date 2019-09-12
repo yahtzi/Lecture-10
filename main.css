@@ -1,0 +1,14 @@
+body {
+    font-size: 16px;
+}
+nav ul {
+    list-style: none;
+}
+section img {
+    max-width: 500px;
+    max-height: 400px;
+}
+body img {
+    max-width: 600px;
+    max-height: 400px;
+}
